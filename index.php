@@ -78,8 +78,8 @@
             </div>
 
     <?php 
-        $_SESSION["username"];{
-        $username=$_SESSION["username"];
+        
+      
         $result= "SELECT * FROM `uploads` WHERE `uploads`.`status` = 'approved' ORDER BY sn ASC";
         $query=mysqli_query($conn, $result);
        
@@ -114,7 +114,7 @@
                     </div>
                         </div>  
                     </div>
-                        "; echo "<br><br>";} }};?>
+                        "; echo "<br><br>";} };?>
 </div>
                     </section>
 
