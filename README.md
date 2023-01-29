@@ -1,6 +1,6 @@
-# Php-music-web-app
-This is a  php web application where a user can upload audio, then wait for an admin to approve it.
-The script was built in Php, strictly on the server side.
+# Javascript/Php-music-web-app
+This is a  Javascript/php web application where a user can upload audio, then wait for an admin to approve it.
+The backend was built in Php, while frontend javascript,css,html.
 
 SPECIFICATIONS 
 
