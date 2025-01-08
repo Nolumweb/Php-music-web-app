@@ -1,6 +1,6 @@
-# Javascript/Php-music-web-app
+# Html, Css , Bootstrap,Javascript/Php music web application
 This is a  html, css , bootstrap,Javascript/php web application where a user can upload audio, then wait for an admin to approve it.
-The backend was built in Php, while frontend javascript,css,html.
+The backend was built in Php, while frontend javascript,bootstrap CSS,HTML .
 
 SPECIFICATIONS 
 
